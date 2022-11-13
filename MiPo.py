@@ -1,6 +1,3 @@
-#reference: Jiawei Yang, Xu Tan and Sylwan Rahardja , MiPo: how to detect outliers from trajectory data between 2000 and 2022
-# Aurthor: Jiawei YANG
-# Date: 2022.08.01
 
 import collections
 import time
